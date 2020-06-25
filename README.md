@@ -1,1 +1,1 @@
-# Data-Science in Finance Dimension Reduction
+# Data Science in Finance Dimension Reduction

@@ -1,1 +1,1 @@
-# Data Science in Finance Dimension Reduction
+# Project Data Analysis for Finance: Proses Investasi Investor
